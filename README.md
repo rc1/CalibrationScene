@@ -4,4 +4,4 @@
 
 Quick _calibration scene_ for sketching in.
 
-Floor extures edited from – and _calibration_ concept heavily inspired by http://github.com/keijro
+Floor extures edited from, and the _calibration_ concept heavily inspired by, http://github.com/keijro
